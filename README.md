@@ -23,5 +23,15 @@ Semi-MoreGAN
 │   ├── rain
 │   ├── gt
 │   ├── depth
+│   ├── real
 ```
-More details please see
+More details please see train_input.txt, train_gt.txt, train_depth.txt and train_real.txt.
+### 3. Main Training
+Clone this repository:          
+   ```shell
+   git clone 
+   ```
+
+```
+python train.py
+```
