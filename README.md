@@ -12,6 +12,7 @@ Here we provide a supervised version, and more codes, real-world datasets and pr
 - opencv
 - numpy
 - easydict
+- skimage
 
 ## 2. Data preparation
 Download the RainCityscapes training and validation images from [Cityscapes website](https://www.cityscapes-dataset.com/downloads/).
@@ -44,4 +45,15 @@ Test the Semi-MoreGAN:
    ```shell
    python3 infer.py    
    ```
+The PSNR and SSIM evaluation codes are from the skimage.
+## 5. Citation
+If you find this work useful in your research, please consider cite:
 
+```
+@article{shen2022semi,
+  title={Semi-MoreGAN: A New Semi-supervised Generative Adversarial Network for Mixture of Rain Removal},
+  author={Shen, Yiyang and Wang, Yongzhen and Wei, Mingqiang and Chen, Honghua and Xie, Haoran and Cheng, Gary and Wang, Fu Lee},
+  journal={arXiv preprint arXiv:2204.13420},
+  year={2022}
+}
+```
