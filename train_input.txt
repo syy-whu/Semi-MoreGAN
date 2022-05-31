@@ -1,0 +1,1 @@
+./datasets/rain/aachen_000004_000019_leftImg8bit_rain_alpha_0.01_beta_0.005_dropsize_0.01_pattern_1.png
