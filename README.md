@@ -31,7 +31,17 @@ Clone this repository:
    ```shell
    git clone https://github.com/syy-whu/Semi-MoreGAN.git
    ```
-run the train.py
+run the supervised train code
+```
+python supervised_train.py
+```
+run the semi-supervised train code
 ```
 python train.py
 ```
+### 4. Evaluation
+Test the Semi-MoreGAN:
+   ```shell
+   python3 infer.py    
+   ```
+
