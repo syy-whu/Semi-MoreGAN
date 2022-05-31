@@ -29,9 +29,9 @@ More details please see train_input.txt, train_gt.txt, train_depth.txt and train
 ### 3. Main Training
 Clone this repository:          
    ```shell
-   git clone 
+   git clone https://github.com/syy-whu/Semi-MoreGAN.git
    ```
-
+run the train.py
 ```
 python train.py
 ```
