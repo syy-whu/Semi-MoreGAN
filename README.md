@@ -2,8 +2,6 @@
 
 This is the PyTorch implementation for our paper: **Semi-MoreGAN: A Semi-supervised Image Mixture of Rain Removal Network**
 
-Here we provide a supervised version, and more codes, real-world datasets and pre-models will be released after published!
-
 ## 1. Requirements
 
 - Python 3.6.0
@@ -37,7 +35,7 @@ python supervised_train.py
 ```
 run the semi-supervised train code
 ```
-python train.py
+python semi-supervised_train.py
 ```
 ### 4. Evaluation
 Test the Semi-MoreGAN:
