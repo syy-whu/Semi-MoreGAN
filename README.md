@@ -43,7 +43,9 @@ Test the Semi-MoreGAN:
    python3 infer.py    
    ```
 The PSNR and SSIM evaluation codes are from the skimage.
-## 5. Citation
+## 5. Acknowledgement
+The code is based on [DGNL-Net](https://github.com/xw-hu/DGNL-Net). 
+## 6. Citation
 If you find this work useful in your research, please consider cite:
 
 ```
@@ -55,5 +57,14 @@ year = {2022},
 publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
 ISSN = {1467-8659},
 DOI = {10.1111/cgf.14690}
+}
+@article{hu2021single,
+     title={Single-Image Real-Time Rain Removal Based on Depth-Guided Non-Local Features},
+     author={Hu, Xiaowei and Zhu, Lei and Wang, Tianyu and Fu, Chi-Wing and Heng, Pheng-Ann},
+     journal={IEEE Transactions on Image Processing},
+     volume={30},
+     pages={1759--1770},
+     year={2021},
+     publisher={IEEE}
 }
 ```
