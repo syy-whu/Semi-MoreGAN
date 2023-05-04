@@ -1,6 +1,6 @@
 # Semi-MoreGAN
 
-This is the PyTorch implementation for our paper: **Semi-MoreGAN: A Semi-supervised Image Mixture of Rain Removal Network**.
+This is the PyTorch implementation for our paper: **Semi-MoreGAN: A Semi-supervised Image Mixture of Rain Removal Network** \[[Pacific Graphics 2022 (https://arxiv.org/abs/2204.13420)\].
 
 ## 1. Requirements
 
