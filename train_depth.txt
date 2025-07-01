@@ -1,1 +1,1 @@
-./datasets/depth/aachen_000004_000019_depth_rain.png
+./datasets/depth/1.png
