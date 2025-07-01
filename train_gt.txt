@@ -1,1 +1,1 @@
-./datasets/gt/aachen/aachen_000004_000019_leftImg8bit.png
+./datasets/gt/1.png
